@@ -1,0 +1,11 @@
+C:\Users\Panikan\source\repos\Zadan\Zadan\bin\Debug\Zadan.exe.config
+C:\Users\Panikan\source\repos\Zadan\Zadan\bin\Debug\Zadan.exe
+C:\Users\Panikan\source\repos\Zadan\Zadan\bin\Debug\Zadan.pdb
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.csproj.AssemblyReference.cache
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.Form1.resources
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.Properties.Resources.resources
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.csproj.GenerateResource.cache
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.csproj.CoreCompileInputs.cache
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.exe
+C:\Users\Panikan\source\repos\Zadan\Zadan\obj\Debug\Zadan.pdb
